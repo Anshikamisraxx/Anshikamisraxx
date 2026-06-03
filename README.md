@@ -28,3 +28,9 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Anshikamisraxx&show_icons=true&theme=radical)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshikamisraxx&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Anshikamisraxx/Anshikamisraxx/blob/output/github-contribution-grid-snake.svg)
