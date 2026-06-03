@@ -31,6 +31,15 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=Anshikamisraxx&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshikamisraxx&layout=compact&theme=radical)
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Anshikamisraxx/Anshikamisraxx/blob/output/github-contribution-grid-snake.svg)
