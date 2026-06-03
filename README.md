@@ -25,21 +25,13 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Anshikamisraxx&show_icons=true&theme=radical)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshikamisraxx&theme=radical)
 
 ---
+## 🚀 GitHub Overview
 
-## 🏆 GitHub Achievements
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshikamisraxx&layout=compact&theme=tokyonight" />
 
-![](https://github-profile-trophy.vercel.app/?username=Anshikamisraxx&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshikamisraxx&layout=compact&theme=radical)
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Anshikamisraxx/Anshikamisraxx/blob/output/github-contribution-grid-snake.svg)
