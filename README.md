@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Anshika</h1>
 
-<!--
-**Anshikamisraxx/Anshikamisraxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4D6D&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Progress;React+%7C+MongoDB+%7C+JavaScript;Building+cool+things+🚀;Consistency+is+my+power" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+- 🎓 B.Tech CSE Student  
+- 💻 Learning Full Stack Development  
+- ⚡ Skilled in React, Backend & Databases  
+- 🎯 Focused on placements + projects  
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Anshikamisraxx&show_icons=true&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshikamisraxx&theme=radical)
