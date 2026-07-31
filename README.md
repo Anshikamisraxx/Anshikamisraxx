@@ -39,6 +39,11 @@ Full-stack developer and DSA problem-solver, now building toward **AI/ML and Dat
 
 ## 🚀 Featured Projects
 
+### 🔹 CineMatch — Movie Recommender (Hollywood + Bollywood)
+A content-based recommendation web app: pick a movie, get 5 similar ones with posters, across ~6,700 Hollywood & Bollywood films. Built the full pipeline — data cleaning, text vectorization, cosine similarity — and deployed it live.
+- **Tech:** Python, pandas, scikit-learn, Streamlit, TMDB API
+- 🌐 **[Live Demo](https://cinematch-sci8j6zdlmxaajgghjmez6.streamlit.app)** · 💻 **[Code](https://github.com/Anshikamisraxx/cinematch)**
+
 ### 🔹 Beneficiary Tracker (Field Records)
 A full-stack web app that lets NGO field volunteers register welfare beneficiaries and automatically flags likely duplicate entries — preventing the same person from receiving aid twice across villages.
 - Cookie-based auth with Supabase Auth + Next.js middleware route guards; audit identity derived server-side so it can't be forged.
